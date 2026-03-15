@@ -1,5 +1,6 @@
 ### study-of-basic-gates
 DEVOLPED BY: JEEVITHA K
+
 REGISTER NO: 212225040149
 
 **AIM:** 
@@ -81,7 +82,7 @@ endmodule
  
 **Logic symbol & Truthtable**
 
-
+![image](https://github.com/jeevithak7708/study-of-basic-gates/blob/main/Screenshot%202026-03-15%20103042.png)
 **RTL realization Output:** 
 ![image](
 **RTL**
