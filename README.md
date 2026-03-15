@@ -84,7 +84,7 @@ endmodule
 
 ![image](https://github.com/jeevithak7708/study-of-basic-gates/blob/main/Screenshot%202026-03-15%20103042.png)
 **RTL realization Output:** 
-![image](
+![image](https://github.com/jeevithak7708/study-of-basic-gates/blob/main/Screenshot%202026-03-13%20235527.png)
 **RTL**
 
 **Result:**
